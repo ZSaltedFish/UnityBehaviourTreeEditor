@@ -1,0 +1,7 @@
+﻿<root>
+  <Model.TreeNodeCanvas Name="Canvas" Size="100, 100" LocalPosition="0, 18" Anchor="Left, Top, Right, Down" Margin="0, 18, 0, 0"/>
+  <Model.NodeDebugPanel Name="DebugPanel" Anchor="Left, Top" Margin="0, 18, 0, 0"/>
+  <Model.BehaviourTreeDebugPanel Name="BTreeDebugPanel" Size="700, 300"/>
+  <Model.EditorToolBar Name="ToolBar" Size="500, 18" Anchor="Left, Top, Right" Margin="0, 0, 0, 0"/>
+  <Model.NodeToolPanel Name="SearchPanel" Size="160, 10" Anchor="Right, Top, Down" Margin="0, 18, 0, 0" Active="false"/>
+</root>

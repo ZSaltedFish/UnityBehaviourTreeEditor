@@ -1,0 +1,1 @@
+{"DebugEnable":true,"FontSize":13,"ServersPath":"E:\\wspace\\football\\common\\data\\behavior","ShowTreeID":false}

@@ -1,0 +1,5 @@
+﻿<root Size="160, 1000">
+  <Model.EditorPanel Name="ScrollPanel" Size="160, 1000">
+    <Model.EditorList Name="AutoList"/>
+  </Model.EditorPanel>
+</root>

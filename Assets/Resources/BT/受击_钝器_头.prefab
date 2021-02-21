@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1512171106894066}
+  m_IsPrefabParent: 1
+--- !u!1 &1512171106894066
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4025445917503974}
+  - component: {fileID: 114929166565145778}
+  - component: {fileID: 114153994414466312}
+  m_Layer: 0
+  m_Name: "\u53D7\u51FB_\u949D\u5668_\u5934"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4025445917503974
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1512171106894066}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.996803e-15, y: 2.1939998, z: -0.0000002378129}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114153994414466312
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1512171106894066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baa67b07d5afecb4ba2b58dd29ec9a3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Id: 0
+  BindType: 3
+  Duration: 1000
+--- !u!114 &114929166565145778
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1512171106894066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3ba28fb304e2f7489b59c45e55b0c86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Id: 0
+  ReferanceObj: {fileID: 1058461409382558, guid: bdddc51734fd3974bab33bb1e05c91dc,
+    type: 2}
+  IsInScene: 0
+  UnitType: 2
+  AddEvent: {fileID: 0}
+  UpdateEvent: {fileID: 0}
+  LateUpdateEvent: {fileID: 0}
+  RemoveEvent: {fileID: 0}
+  HasParent: 1

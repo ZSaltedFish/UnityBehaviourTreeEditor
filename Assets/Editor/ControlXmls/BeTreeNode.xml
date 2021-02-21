@@ -1,0 +1,12 @@
+﻿<root Size="200, 80">
+  <Model.EditorImage Name="NodeSelected" Size="200, 80" Bg="Assets/Editor/Resources/NodeSelectedType/NodeSelected.png" ImageScaleMode="Stretching" Active="false"/>
+  <Model.EditorImage Name="NodeError" Size="200, 80" Bg="Assets/Editor/Resources/NodeSelectedType/NodeError.png" ImageScaleMode="Stretching" Active="false"/>
+  <Model.EditorImage Name="NodeOutput" Size="200, 80" Bg="Assets/Editor/Resources/NodeSelectedType/NodeOutput.png" ImageScaleMode="Stretching" Active="false"/>
+  <Model.EditorImage Name="NodeDebug" Size="200, 80" Bg="Assets/Editor/Resources/NodeSelectedType/NodeDebug.png" ImageScaleMode="Stretching" Active="false"/>
+  <Model.EditorImage Name="BgImg" Size="120, 50" Bg="Assets/Editor/Resources/NodeBg.png" ImageScaleMode="Stretching" LocalPosition="40, 15">
+    <Model.EditorText Name="TypeDesc" Size="150, 20" LocalPosition="5, 33"/>
+    <Model.EditorText Name="TypeName" Size="150, 20" LocalPosition="5, 18"/>
+    <Model.EditorText Name="NodeIDText" Size="150, 20" LocalPosition="5, 3"/>
+  </Model.EditorImage>
+  <Model.EditorButton Name="ShowCloseFlag" Size="27, 33" LocalPosition="157, 28" Bg="Assets/Editor/Resources/small.png" Hover="Assets/Editor/Resources/small.png" Down="Assets/Editor/Resources/small.png"/>
+</root>

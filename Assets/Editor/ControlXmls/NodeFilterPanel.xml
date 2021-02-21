@@ -1,0 +1,6 @@
+﻿<root Size="300, 500">
+  <Model.EditorImage Size="300, 500" Bg="Assets/Editor/Resources/RightClickPanelBg.png" ImageScaleMode="Stretching"/>
+  <Model.EditorImage Size="300, 45" Bg="Assets/Editor/Resources/RightClickTextPanel.png" ImageScaleMode="Stretching"/>
+  <Model.EditorText Name="FilterField" LocalPosition="10, 7" Size="280, 30" FontSize="25"/>
+  <Model.EditorPanel Name="DataButton" LocalPosition="0, 50" Size="295, 440"/>
+</root>

@@ -1,0 +1,10 @@
+﻿<root>
+  <Model.EditorImage Bg="Assets/Editor/Resources/MeshBg.png" ImageScaleMode="Tile" Anchor="Top, Left, Right, Down" Margin="0, 0, 0, 0"/>
+  <Model.EditorImage Name="NodePanels" Size="1000, 1000">
+    <Model.NodeLinkCanvas Name="LinkCanvas"/>
+    <Model.EditorImage Name="NodeSelected" Size="200, 80" Bg="Assets/Editor/Resources/OutLineSelect.png" ImageScaleMode="Stretching" Active="false"/>
+  </Model.EditorImage>
+  <Model.EditorImage Name="DetialBackground" Size="400, 400" Bg="Assets/Editor/Resources/DetialPanelBg.png" ImageScaleMode="Stretching" Active="false"/>
+  <Model.NodeDataInfoPanel Name="DetialPanel" Size="400, 400"/>
+  <Model.NodeFilterPanel Name="NodeSelectedPanel" Active="false"/>
+</root>
